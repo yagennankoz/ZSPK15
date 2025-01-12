@@ -5,7 +5,9 @@ X68000ディスプレイ用っぽい1.5インチスピーカーケース
 
 ![DSC00275](https://github.com/user-attachments/assets/4b586754-3ad0-42d4-8994-27612aac4c51)
 
-1.5インチスピーカー用のケースです。
+1.5インチスピーカー用のケースです。<br>
+5cmスピーカー版もあります。<br>
+https://github.com/yagennankoz/ZSPK
 
 ### パーツ構成
 |ファイル名|用途|
